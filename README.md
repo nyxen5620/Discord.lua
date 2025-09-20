@@ -1,4 +1,4 @@
-# discord.lua
+<h1 align="center discord.lua\>
 
 <p align="center">
   <img src="https://i.postimg.cc/hGCFB6MD/discord-lua.webp" alt="discord.lua" width="160" />
