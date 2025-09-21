@@ -18,10 +18,10 @@
 </p>
 
 ## Bem-vindo
-Biblioteca em Lua para facilitar a criação de bots para Discord, com foco em compatibilidade com ambientes semelhantes ao Roblox.
+Biblioteca em Lua para facilitar a criação de bots para Discord.
 
 ## Objetivo
-Fornecer utilitários leves e organizados que simplifiquem a interação com a API do Discord, mantendo o código claro e fácil de adaptar.
+Fornecer utilitários leves e organizados que simplifiquem a interação com a API do Discord.
 
 ## Requisitos
 - Lua ou ambiente compatível
@@ -29,10 +29,12 @@ Fornecer utilitários leves e organizados que simplifiquem a interação com a A
 - Token do bot para autenticação
 
 ## Início
-Consulte a documentação do repositório e os comentários no código-fonte para instruções detalhadas.
+Ainda não temos uma documentação, aguarde ate o final da criação da lib, ela ainda não está pronta.
 
 ## Contribuição
 Contribuições são bem-vindas: abra issues para relatar problemas ou sugerir melhorias e envie pull requests com alterações descritas.
 
 ## Licença
-Consulte o arquivo LICENSE no repositório para detalhes sobre a licença do projeto.
+Esta biblioteca está sobre a licença **APACHE 2.0** leia o arquivo licence para entender melhor como a licença **APACHE 2.0** funciona.
+
+**© 2025 Nyxenofficial**
